@@ -1,6 +1,6 @@
-import { EventEmitter } from 'events';
-import fs from 'fs';
-import pa from 'path';
+import type { EventEmitter } from 'events';
+import type fs from 'fs';
+import type pa from 'path';
 
 /**
  * Interface for nodes fs module
