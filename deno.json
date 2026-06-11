@@ -1,0 +1,11 @@
+{
+  "lint": {
+    "exclude": [
+      "index.js",
+      "lib/",
+      "scripts/",
+      "test/",
+      "node_modules/"
+    ]
+  }
+}
